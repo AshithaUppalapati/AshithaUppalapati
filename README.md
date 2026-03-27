@@ -5,7 +5,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║        ASHITHA RAJ UPPALAPATI                                ║
-║        Senior Data Engineer · 6+ Years                      ║
+║        Senior Data Engineer · 6+ Years                       ║
 ║        Apache Spark · Kafka · Databricks · AWS · Azure       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
