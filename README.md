@@ -81,8 +81,6 @@ tech_stack = {
 |--------------|-------------|------|-----|
 | 🎓 MS, Information Technology | Arizona State University | 2023 | 4.0 / 4.0 |
 | 🎓 BTech, Computer Science | GITAM University | 2018 | 4.0 / 4.0 |
-| 📜 *[Add: AWS Certified Data Engineer]* | AWS | — | — |
-| 📜 *[Add: Databricks Certified Associate]* | Databricks | — | — |
 
 ---
 
