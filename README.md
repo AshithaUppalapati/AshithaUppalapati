@@ -67,9 +67,9 @@ tech_stack = {
 
 <div align="center">
 
-![Ashitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Ashitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshithaUppalapati&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshithaUppalapati&layout=compact&hide_border=true&theme=default)
 
 </div>
 
