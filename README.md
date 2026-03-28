@@ -75,7 +75,7 @@ tech_stack = {
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 | Degree / Cert | Institution | Year | GPA |
 |--------------|-------------|------|-----|
