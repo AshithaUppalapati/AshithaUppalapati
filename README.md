@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-Senior Data Engineer with **6+ years** designing and operating large-scale data platforms across **AWS** and **Azure** environments. I specialize in:
+Senior Data Engineer with **around 7 years** designing and operating large-scale data platforms across **AWS** and **Azure** environments. I specialize in:
 
 - 🏗️ **Lakehouse architecture** — Medallion (Bronze/Silver/Gold) patterns on Azure Databricks & Delta Lake
 - ⚡ **Streaming pipelines** — Apache Kafka, Spark Structured Streaming, NiFi, MiNiFi
