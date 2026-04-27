@@ -91,7 +91,7 @@ tech_stack = {
 2022 ──► Arizona State Univ.   MS Information Technology · GPA 4.0
 2023 ──► Datics Inc             Data Engineer · SQL/Python pipelines · Agile
 2023 ──► Softnet LLC            Software Engineer · Cloud apps · Python & Java
-2024 ──► Vensoft Inc ──► NOW   Big Data Engineer · AI pipelines · Kafka · Spark · Mentoring
+2024 ──► SABIC (Vensoft Inc) ──► NOW   Big Data Engineer · AI pipelines · Kafka · Spark · Mentoring
 ```
 
 ---
