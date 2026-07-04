@@ -98,7 +98,7 @@ tech_stack = {
 
 <div align="center">
 
-*Open to Senior Data Engineer / Staff Engineer roles · Remote or Tempe, AZ*  
+*Open to Senior Data Engineer / Big Data Engineer / Data Platform Engineer roles · Remote or Tempe, AZ*  
 📬 [ashitha.uppalapati@gmail.com](mailto:ashitha.uppalapati@gmail.com)
 
 </div>
